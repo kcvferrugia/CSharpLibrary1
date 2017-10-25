@@ -13,7 +13,7 @@ namespace _0._05_SwitchCase
             string friend = "Jay";
             int age = 15;
 
-            switch (friend.ToLower())
+            switch (friend)
             {
                 case "jay":
                     Console.WriteLine("Hey Jay.");
