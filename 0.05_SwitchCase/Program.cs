@@ -11,7 +11,6 @@ namespace _0._05_SwitchCase
         static void Main(string[] args)
         {
             string friend = "Jay";
-            int age = 15;
 
             switch (friend)
             {
@@ -28,6 +27,8 @@ namespace _0._05_SwitchCase
                     Console.WriteLine("I don't know you.");
                     break;
             }
+
+            int age = 15;
 
             switch (age)
             {
