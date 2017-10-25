@@ -19,9 +19,9 @@ namespace _0._04_ConditionalsBankExercise
 
             if (difference >= 700 && difference <= 1999)
             {
-                Console.WriteLine("I have extra money. I should pay off my debt. I'll have $" + difference + " left.");
+                Console.WriteLine($"I have extra money. I should pay off my debt. I'll have ${difference} left.");
             }
-            else if ((bankAccount - debt > 2000))
+            else if ((bankAccount - debt) > 2000)
             {
                 Console.WriteLine("I have a ton of extra cash right now. I think I could go to Europe!");
             }
