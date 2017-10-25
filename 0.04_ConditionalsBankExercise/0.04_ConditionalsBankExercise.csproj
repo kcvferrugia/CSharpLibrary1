@@ -7,7 +7,7 @@
     <ProjectGuid>{E546BD7F-1A35-4C7F-85FA-9719BFF9E645}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._04_ConditionalsBankExercise</RootNamespace>
-    <AssemblyName>_0._04_ConditionalsBankExercise</AssemblyName>
+    <AssemblyName>0.04_ConditionalsBankExercise</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
