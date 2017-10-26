@@ -1,0 +1,2 @@
+C:\Users\kcvf4\source\repos\0.08_Classes Challenges\obj\Debug\0.08_Classes Challenges.csprojResolveAssemblyReference.cache
+C:\Users\kcvf4\source\repos\0.08_Classes Challenges\obj\Debug\0.08_Classes Challenges.csproj.CoreCompileInputs.cache

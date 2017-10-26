@@ -1,0 +1,7 @@
+C:\Users\kcvf4\source\repos\0.09_Solutions\bin\Debug\0.09_Solutions.exe.config
+C:\Users\kcvf4\source\repos\0.09_Solutions\bin\Debug\0.09_Solutions.exe
+C:\Users\kcvf4\source\repos\0.09_Solutions\bin\Debug\0.09_Solutions.pdb
+C:\Users\kcvf4\source\repos\0.09_Solutions\obj\Debug\0.09_Solutions.csprojResolveAssemblyReference.cache
+C:\Users\kcvf4\source\repos\0.09_Solutions\obj\Debug\0.09_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\kcvf4\source\repos\0.09_Solutions\obj\Debug\0.09_Solutions.exe
+C:\Users\kcvf4\source\repos\0.09_Solutions\obj\Debug\0.09_Solutions.pdb

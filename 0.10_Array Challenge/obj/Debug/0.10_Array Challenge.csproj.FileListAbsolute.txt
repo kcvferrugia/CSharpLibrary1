@@ -1,0 +1,6 @@
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\bin\Debug\0.10_Array Challenge.exe.config
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\bin\Debug\0.10_Array Challenge.exe
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\bin\Debug\0.10_Array Challenge.pdb
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\obj\Debug\0.10_Array Challenge.csproj.CoreCompileInputs.cache
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\obj\Debug\0.10_Array Challenge.exe
+C:\Users\kcvf4\source\repos\0.10_Array Challenge\obj\Debug\0.10_Array Challenge.pdb
